@@ -1,18 +1,19 @@
 {
   "name": "docmost-mcp-marketplace",
   "owner": {
-    "name": "mauriciosoares01"
+    "name": "rodrigobertipalha-pedeai"
   },
   "plugins": [
     {
       "name": "docmost-mcp",
       "source": {
         "source": "github",
-        "repo": "mauriciosoares01/docmost-mcp",
-        "ref": "main"
+        "repo": "rodrigobertipalha-pedeai/docmost-mcp",
+        "ref": "main",
+        "sha": "d52d8bc4517c19104a8e0bd3d89325442a6f6538"
       },
       "displayName": "Docmost MCP Server",
-      "description": "MCP local para Docmost self-hosted (leitura e escrita), com autorização delegada ao RBAC do Docmost.",
+      "description": "MCP local para Docmost self-hosted (leitura e escrita), com autorização delegada ao RBAC do Docmost. Fork de mauriciosoares01/docmost-mcp, pinado por SHA.",
       "version": "1.1.0",
       "license": "MIT",
       "keywords": ["docmost", "mcp", "wiki", "markdown"]
