@@ -7,8 +7,8 @@
     {
       "name": "docmost-mcp",
       "source": {
-        "source": "github",
-        "repo": "rodrigobertipalha-pedeai/docmost-mcp",
+        "source": "url",
+        "url": "https://github.com/rodrigobertipalha-pedeai/docmost-mcp.git",
         "ref": "main",
         "sha": "d52d8bc4517c19104a8e0bd3d89325442a6f6538"
       },
